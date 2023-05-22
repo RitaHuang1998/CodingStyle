@@ -2,7 +2,7 @@
 
 ## Python Coding Style
 ### Semicolon
-```sh
+```python
 # No
 a = 1;
 b = 1; c = a + b
@@ -16,7 +16,7 @@ c = a + b
 * No more than 80 characters per line
 
 ### Brackets
-```sh
+```python
 # No
 return (x, y)
 if (x and y): ...
